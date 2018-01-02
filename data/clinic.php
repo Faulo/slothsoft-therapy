@@ -1,5 +1,5 @@
 <?php
-namespace Slothsoft\CMS;
+namespace Slothsoft\Farah;
 
 use Slothsoft\Therapy\Clinic;
 $patientDocList = $this->getResourceDir('therapy/wochenziele', 'xml');
