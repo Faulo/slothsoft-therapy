@@ -1,4 +1,4 @@
-Files and Resources and Hypertext
-=================================
+Therapy Module
+==============
 
 A Farah module.
