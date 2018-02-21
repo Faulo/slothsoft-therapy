@@ -22,6 +22,13 @@ Llo
     <resource-directory name="xsl" path="template" type="application/xslt+xml"/>
     <resource-directory name="dictionary" path="dictionary" type="application/xml"/>
     <resource-directory name="pages" path="pages" type="application/xml"/>
+    <directory name="static">
+      <resource-directory name="wochenziele" path="wochenziele" type="application/xml"/>
+      <resource-directory name="happiness" path="happiness" type="text/csv">
+        <options del="&#9;"/>
+      </resource-directory>
+      <resource-directory name="timecapsules" path="timecapsules" type="text/plain"/>
+    </directory>
     <fragment name="clinic">
       <use-document ref="data/clinic"/>
       <use-template ref="xsl/clinic"/>
@@ -39,12 +46,5 @@ Llo
         <use-template ref="xsl/happiness.graph"/>
       </fragment>
     </fragment>
-    <directory name="static">
-      <resource-directory name="wochenziele" path="wochenziele" type="application/xml"/>
-      <resource-directory name="happiness" path="happiness" type="text/csv">
-        <options del="&#9;"/>
-      </resource-directory>
-      <resource-directory name="timecapsules" path="timecapsules" type="text/plain"/>
-    </directory>
   </assets>
 </module>
