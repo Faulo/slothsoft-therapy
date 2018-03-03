@@ -19,7 +19,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Slothsoft\\Therapy\\": "src\/Slothsoft\/Therapy\/"
+            "Slothsoft\\Therapy\\": "src\/"
         }
     }
 }
