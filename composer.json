@@ -18,7 +18,7 @@
         "slothsoft\/core": "dev-master"
     },
     "autoload": {
-        "psr-4": {
+        "psr-0": {
             "Slothsoft\\Therapy\\": "src\/"
         }
     }
