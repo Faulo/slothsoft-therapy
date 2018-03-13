@@ -33,13 +33,13 @@ Llo
       <use-document ref="data/clinic"/>
       <use-template ref="xsl/clinic"/>
       <import ref="//slothsoft@core/HTML5"/>
-      <use-stylesheet ref="css/default"/>
+      <link-stylesheet ref="css/default"/>
       <param name="standalone" scope="global"/>
     </fragment>
     <fragment name="happiness">
       <use-template ref="xsl/happiness"/>
       <import ref="//slothsoft@core/HTML5"/>
-      <use-stylesheet ref="css/default"/>
+      <link-stylesheet ref="css/default"/>
       <param name="standalone" scope="global"/>
       <fragment name="graph">
         <use-document ref="static/happiness"/>
