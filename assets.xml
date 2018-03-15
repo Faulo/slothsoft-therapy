@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<assets xmlns="http://schema.slothsoft.net/farah/module">
+    <resource-directory name="data" path="data" type="application/x-php"/>
+    <resource-directory name="css" path="stylesheet" type="text/css"/>
+    <resource-directory name="js" path="script" type="application/javascript"/>
+    <resource-directory name="xsl" path="template" type="application/xslt+xml"/>
+    <resource-directory name="dictionary" path="dictionary" type="application/xml"/>
+    <resource-directory name="pages" path="pages" type="application/xml"/>
+    <directory name="static">
+      <resource-directory name="wochenziele" path="wochenziele" type="application/xml"/>
+      <resource-directory name="happiness" path="happiness" type="text/csv">
+        <options del="&#9;"/>
+      </resource-directory>
+      <resource-directory name="timecapsules" path="timecapsules" type="text/plain"/>
+    </directory>
+    <fragment name="clinic">
+      <use-document ref="data/clinic"/>
+      <use-template ref="xsl/clinic"/>
+      <import ref="//slothsoft@core/HTML5"/>
+      <link-stylesheet ref="css/default"/>
+      <param name="standalone" scope="global"/>
+    </fragment>
+    <fragment name="happiness">
+      <use-template ref="xsl/happiness"/>
+      <import ref="//slothsoft@core/HTML5"/>
+      <link-stylesheet ref="css/default"/>
+      <param name="standalone" scope="global"/>
+      <fragment name="graph">
+        <use-document ref="static/happiness"/>
+        <use-template ref="xsl/happiness.graph"/>
+      </fragment>
+    </fragment>
+  </assets>
