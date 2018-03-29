@@ -23,7 +23,7 @@
     },
     "autoload": {
         "files": [
-            "src\/registerModule.php"
+            "C:\\Webserver\\workspace\\slothsoft-therapy\\src\\registerModule.php"
         ],
         "psr-0": {
             "Slothsoft\\Therapy\\": "src\/"
