@@ -4,25 +4,28 @@ namespace Slothsoft\Therapy;
 
 use Slothsoft\Core\DOMHelper;
 use DOMDocument;
+use DOMElement;
+use Slothsoft\Core\IO\Writable\DOMWriterInterface;
+use Slothsoft\Core\IO\Writable\DOMWriterDocumentFromElementTrait;
+use Slothsoft\Farah\Module\FarahUrl\FarahUrlArguments;
 
-class Clinic
+class Clinic implements DOMWriterInterface
 {
+    use DOMWriterDocumentFromElementTrait;
 
     protected $patientList;
 
-    public function loadPatients(array $documentList)
+    public function loadPatients(array $assetList)
     {
         $this->patientList = [];
-        foreach ($documentList as $document) {
-            $xpath = DOMHelper::loadXPath($document);
-            $nodeList = $xpath->evaluate('//patient');
-            foreach ($nodeList as $node) {
-                $patientPath = $node->parentNode->getAttribute('realpath');
-                $patientName = basename($node->parentNode->getAttribute('uri'));
-                $patient = new Patient($xpath, $node);
-                $patient->setName($patientName);
-                $this->patientList[$patientPath] = $patient;
-            }
+        foreach ($assetList as $asset) {
+            $patientPath = $asset->getRealPath();
+            $patientName = $asset->getName();
+            $patientDocument = $asset->lookupResultByArguments(FarahUrlArguments::createEmpty())->toDocument();
+            
+            $patient = new Patient(DOMHelper::loadXPath($patientDocument), $patientDocument->documentElement);
+            $patient->setName($patientName);
+            $this->patientList[$patientPath] = $patient;
         }
     }
 
@@ -62,7 +65,7 @@ class Clinic
         unset($patient);
     }
 
-    public function asNode(DOMDocument $doc)
+    public function toElement(DOMDocument $doc) : DOMElement
     {
         $retNode = $doc->createElement('clinic');
         foreach ($this->patientList as $patient) {
