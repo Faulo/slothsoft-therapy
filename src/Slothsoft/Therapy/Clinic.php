@@ -21,7 +21,7 @@ class Clinic implements DOMWriterInterface
         foreach ($assetList as $asset) {
             $patientPath = $asset->getRealPath();
             $patientName = $asset->getName();
-            $patientDocument = $asset->lookupResultByArguments(FarahUrlArguments::createEmpty())->toDocument();
+            $patientDocument = $asset->createResult(FarahUrlArguments::createEmpty())->toDocument();
             
             $patient = new Patient(DOMHelper::loadXPath($patientDocument), $patientDocument->documentElement);
             $patient->setName($patientName);
