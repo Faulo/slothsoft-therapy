@@ -65,7 +65,7 @@ class Clinic implements DOMWriterInterface
         unset($patient);
     }
 
-    public function toElement(DOMDocument $doc) : DOMElement
+    public function toElement(DOMDocument $doc): DOMElement
     {
         $retNode = $doc->createElement('clinic');
         foreach ($this->patientList as $patient) {

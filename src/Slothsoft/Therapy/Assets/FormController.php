@@ -1,4 +1,5 @@
 <?php
+declare(strict_types = 1);
 namespace Slothsoft\Therapy\Assets;
 
 use Slothsoft\Farah\Module\FarahUrl\FarahUrl;
@@ -12,7 +13,9 @@ use Slothsoft\Farah\Module\Results\ResultCatalog;
 
 class FormController extends AssetImplementation
 {
-    protected function loadResult(FarahUrl $url) : ResultInterface {
+
+    protected function loadResult(FarahUrl $url): ResultInterface
+    {
         $args = $url->getArguments();
         
         $clinic = new Clinic();
@@ -28,8 +31,9 @@ class FormController extends AssetImplementation
         
         return ResultCatalog::createDOMWriterResult($url, $clinic);
     }
-    
-    private function getPatientAssets() : array {
+
+    private function getPatientAssets(): array
+    {
         $goalsPath = FarahUrlPath::createFromString('static/wochenziele');
         $goalsUrl = $this->getOwnerModule()->createUrl($goalsPath, FarahUrlArguments::createEmpty());
         $goalsAsset = FarahUrlResolver::resolveToAsset($goalsUrl);
