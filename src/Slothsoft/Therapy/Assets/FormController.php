@@ -10,6 +10,7 @@ use Slothsoft\Farah\Module\Node\Asset\AssetImplementation;
 use Slothsoft\Farah\Module\Results\ResultInterface;
 use Slothsoft\Therapy\Clinic;
 use Slothsoft\Farah\Module\Results\ResultCatalog;
+use Slothsoft\Farah\Module\FarahUrl\FarahUrlStreamIdentifier;
 
 class FormController extends AssetImplementation
 {
@@ -35,7 +36,7 @@ class FormController extends AssetImplementation
     private function getPatientAssets(): array
     {
         $goalsPath = FarahUrlPath::createFromString('static/wochenziele');
-        $goalsUrl = $this->getOwnerModule()->createUrl($goalsPath, FarahUrlArguments::createEmpty());
+        $goalsUrl = $this->getOwnerModule()->createUrl($goalsPath, FarahUrlArguments::createEmpty(), FarahUrlStreamIdentifier::createEmpty());
         $goalsAsset = FarahUrlResolver::resolveToAsset($goalsUrl);
         
         return $goalsAsset->getAssetChildren();
