@@ -6,13 +6,13 @@ use Slothsoft\Farah\Module\FarahUrl\FarahUrl;
 use Slothsoft\Farah\Module\FarahUrl\FarahUrlArguments;
 use Slothsoft\Farah\Module\FarahUrl\FarahUrlPath;
 use Slothsoft\Farah\Module\FarahUrl\FarahUrlResolver;
-use Slothsoft\Farah\Module\Node\Asset\AssetImplementation;
+use Slothsoft\Farah\Module\Node\Asset\AssetBase;
 use Slothsoft\Farah\Module\Results\ResultInterface;
 use Slothsoft\Therapy\Clinic;
 use Slothsoft\Farah\Module\Results\ResultCatalog;
 use Slothsoft\Farah\Module\FarahUrl\FarahUrlStreamIdentifier;
 
-class FormController extends AssetImplementation
+class FormController extends AssetBase
 {
 
     protected function loadResult(FarahUrl $url): ResultInterface
