@@ -2,26 +2,21 @@
 declare(strict_types = 1);
 namespace Slothsoft\Therapy\Assets;
 
-use Slothsoft\Farah\Module\FarahUrl\FarahUrl;
+use Slothsoft\Farah\Module\Executables\ExecutableCreator;
+use Slothsoft\Farah\Module\Executables\ExecutableInterface;
 use Slothsoft\Farah\Module\FarahUrl\FarahUrlArguments;
-use Slothsoft\Farah\Module\FarahUrl\FarahUrlPath;
 use Slothsoft\Farah\Module\FarahUrl\FarahUrlResolver;
 use Slothsoft\Farah\Module\Node\Asset\AssetBase;
-use Slothsoft\Farah\Module\Results\ResultInterface;
 use Slothsoft\Therapy\Clinic;
-use Slothsoft\Farah\Module\Results\ResultCatalog;
-use Slothsoft\Farah\Module\FarahUrl\FarahUrlStreamIdentifier;
 
 class FormController extends AssetBase
 {
 
-    protected function loadResult(FarahUrl $url): ResultInterface
+    protected function loadExecutable(FarahUrlArguments $args): ExecutableInterface
     {
-        $args = $url->getArguments();
-        
         $clinic = new Clinic();
         
-        $clinic->loadPatients($this->getPatientAssets());
+        $clinic->loadPatients(...$this->getPatientAssets());
         
         if ($data = $args->get('clinic')) {
             if (is_array($data)) {
@@ -30,13 +25,13 @@ class FormController extends AssetBase
             }
         }
         
-        return ResultCatalog::createDOMWriterResult($url, $clinic);
+        $creator = new ExecutableCreator($this, $args);
+        return $creator->createDOMWriterExecutable($clinic);
     }
 
     private function getPatientAssets(): array
     {
-        $goalsPath = FarahUrlPath::createFromString('static/wochenziele');
-        $goalsUrl = $this->getOwnerModule()->createUrl($goalsPath, FarahUrlArguments::createEmpty(), FarahUrlStreamIdentifier::createEmpty());
+        $goalsUrl = $this->getOwnerModule()->createUrl('/static/wochenziele');
         $goalsAsset = FarahUrlResolver::resolveToAsset($goalsUrl);
         
         return $goalsAsset->getAssetChildren();

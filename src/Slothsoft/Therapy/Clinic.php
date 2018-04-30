@@ -3,11 +3,12 @@ declare(strict_types = 1);
 namespace Slothsoft\Therapy;
 
 use Slothsoft\Core\DOMHelper;
+use Slothsoft\Core\IO\Writable\DOMWriterDocumentFromElementTrait;
+use Slothsoft\Core\IO\Writable\DOMWriterInterface;
+use Slothsoft\Farah\Module\FarahUrl\FarahUrlResolver;
+use Slothsoft\Farah\Module\Node\Asset\AssetInterface;
 use DOMDocument;
 use DOMElement;
-use Slothsoft\Core\IO\Writable\DOMWriterInterface;
-use Slothsoft\Core\IO\Writable\DOMWriterDocumentFromElementTrait;
-use Slothsoft\Farah\Module\FarahUrl\FarahUrlArguments;
 
 class Clinic implements DOMWriterInterface
 {
@@ -15,13 +16,13 @@ class Clinic implements DOMWriterInterface
 
     protected $patientList;
 
-    public function loadPatients(array $assetList)
+    public function loadPatients(AssetInterface ...$assetList)
     {
         $this->patientList = [];
         foreach ($assetList as $asset) {
             $patientPath = $asset->getRealPath();
             $patientName = $asset->getName();
-            $patientDocument = $asset->createResult(FarahUrlArguments::createEmpty())->toDocument();
+            $patientDocument = FarahUrlResolver::resolveToDocument($asset->createUrl());
             
             $patient = new Patient(DOMHelper::loadXPath($patientDocument), $patientDocument->documentElement);
             $patient->setName($patientName);
