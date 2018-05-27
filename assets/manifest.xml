@@ -1,19 +1,19 @@
 <?xml version="1.0"?>
 <assets xmlns="http://schema.slothsoft.net/farah/module">
-    <resource-directory name="css"  type="text/css"/>
-    <resource-directory name="xsl"  type="application/xslt+xml"/>
+    <resource-directory name="css" type="text/css"/>
+    <resource-directory name="xsl" type="application/xslt+xml"/>
     
     <directory name="static">
-      <resource-directory name="wochenziele"  type="application/xml"/>
-      <resource-directory name="timecapsules"  type="text/plain"/>
+      <resource-directory name="wochenziele" type="application/xml"/>
+      <resource-directory name="timecapsules" type="text/plain"/>
     </directory>
 	
 	<fragment name="html">
 	    <fragment name="clinic">
-	      <use-document ref="api/form"/>
-	      <use-template ref="xsl/clinic"/>
+	      <use-document ref="/api/form"/>
+	      <use-template ref="/xsl/clinic"/>
 	      <import ref="//slothsoft@core/api/HTML5"/>
-	      <link-stylesheet ref="css/default"/>
+	      <link-stylesheet ref="/css/default"/>
 	    </fragment>
 	 </fragment>
 	 
