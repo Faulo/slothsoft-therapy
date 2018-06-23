@@ -18,6 +18,6 @@
 	 </fragment>
 	 
 	 <fragment name="api">
-	 	<custom-asset name="form" class="Slothsoft\Therapy\Assets\FormController"/>
+	 	<custom-asset name="form" executable-builder="Slothsoft\Therapy\Assets\FormBuilder"/>
 	 </fragment>
   </assets>
