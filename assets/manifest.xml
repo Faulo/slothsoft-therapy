@@ -1,23 +1,23 @@
 <?xml version="1.0"?>
 <assets xmlns="http://schema.slothsoft.net/farah/module">
-    <resource-directory name="css" type="text/css"/>
-    <resource-directory name="xsl" type="application/xslt+xml"/>
-    
-    <directory name="static">
-      <resource-directory name="wochenziele" type="application/xml"/>
-      <resource-directory name="timecapsules" type="text/plain"/>
-    </directory>
-	
+	<resource-directory name="css" type="text/css" />
+	<resource-directory name="xsl" type="application/xslt+xml" />
+
+	<directory name="static">
+		<resource-directory name="wochenziele" type="application/xml" />
+		<resource-directory name="timecapsules" type="text/plain" />
+	</directory>
+
 	<fragment name="html">
-	    <fragment name="clinic">
-	      <use-document ref="/api/form" name="form"/>
-	      <use-template ref="/xsl/clinic" name="clinic"/>
-	      <import ref="//slothsoft@core/api/HTML5" name="HTML5"/>
-	      <link-stylesheet ref="/css/default" name="default"/>
-	    </fragment>
-	 </fragment>
-	 
-	 <fragment name="api">
-	 	<custom-asset name="form" executable-builder="Slothsoft\Therapy\Assets\FormBuilder"/>
-	 </fragment>
-  </assets>
+		<fragment name="clinic">
+			<use-document ref="/api/form" name="form" />
+			<use-template ref="/xsl/clinic" name="clinic" />
+			<import ref="//slothsoft@core/api/HTML5" name="HTML5" />
+			<link-stylesheet ref="/css/default" name="default" />
+		</fragment>
+	</fragment>
+
+	<fragment name="api">
+		<custom-asset name="form" executable-builder="Slothsoft\Therapy\Assets\FormBuilder" />
+	</fragment>
+</assets>

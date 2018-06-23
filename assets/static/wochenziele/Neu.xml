@@ -1,2 +1,10 @@
 <?xml version="1.0"?>
-<patient name="Neu"><globalGoals/><weeklyGoals><goal name="Test"/></weeklyGoals><weeklyGoals><goal name="Test"/></weeklyGoals></patient>
+<patient name="Neu">
+	<globalGoals />
+	<weeklyGoals>
+		<goal name="Test" />
+	</weeklyGoals>
+	<weeklyGoals>
+		<goal name="Test" />
+	</weeklyGoals>
+</patient>

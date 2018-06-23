@@ -1,2 +1,1052 @@
 <?xml version="1.0"?>
-<patient name="Martina"><globalGoals><goal name="Mehr soziale Kontakte in Dresden kn&#xFC;pfen" description=""><rating value="2"/><rating value="2"/><rating value="2"/><rating value="2"/><rating value="3"/><rating value="4"/><rating value="5"/><rating value="5"/><rating value="5"/><rating value="6"/><rating value="-"/><rating value="-"/><rating value="-"/><rating value="-"/><rating value="-"/><rating value="-"/><rating value="-"/><rating value="-"/><rating value="-"/><rating value="-"/><rating value="-"/><rating value="-"/><rating value="-"/><rating value="-"/><rating value="-"/><rating value="-"/><rating value="-"/><rating value="-"/><rating value="-"/><rating value="-"/><rating value="-"/><rating value="-"/><rating value="-"/><rating value="-"/><rating value="-"/><rating value="-"/><rating value="-"/><rating value="-"/><rating value="-"/><rating value="-"/><rating value="-"/><rating value="-"/><rating value="-"/></goal><goal name="Akzeptanz der Mutterrolle" description=""><rating value="1"/><rating value="2"/><rating value="2"/><rating value="3"/><rating value="4"/><rating value="5"/><rating value="6"/><rating value="6"/><rating value="7"/><rating value="8"/><rating value="-"/><rating value="-"/><rating value="-"/><rating value="-"/><rating value="-"/><rating value="-"/><rating value="-"/><rating value="-"/><rating value="-"/><rating value="-"/><rating value="5"/><rating value="5"/><rating value="5"/><rating value="5"/><rating value="5"/><rating value="5"/><rating value="5"/><rating value="5"/><rating value="6"/><rating value="6"/><rating value="6"/><rating value="7"/><rating value="7"/><rating value="8"/><rating value="8"/><rating value="8"/><rating value="8"/><rating value="8"/><rating value="9"/><rating value="-"/><rating value="-"/><rating value="-"/><rating value="-"/></goal><goal name="Selbstwert/-liebe steigern" description="- Angst vor dem Alleinbleiben bek&#xE4;mpfen"><rating value="0"/><rating value="1"/><rating value="2"/><rating value="2"/><rating value="2"/><rating value="3"/><rating value="4"/><rating value="5"/><rating value="6"/><rating value="7"/><rating value="-"/><rating value="-"/><rating value="-"/><rating value="-"/><rating value="-"/><rating value="-"/><rating value="-"/><rating value="-"/><rating value="-"/><rating value="-"/><rating value="5"/><rating value="5"/><rating value="5"/><rating value="4"/><rating value="4"/><rating value="4"/><rating value="4"/><rating value="4"/><rating value="4"/><rating value="4"/><rating value="4"/><rating value="4"/><rating value="5"/><rating value="5"/><rating value="5"/><rating value="5"/><rating value="5"/><rating value="5"/><rating value="5"/><rating value="5"/><rating value="5"/><rating value="5"/><rating value="5"/></goal><goal name="Auf Inneres Kind h&#xF6;ren" description="- ersten Impulsen folgen"><rating value="-"/><rating value="-"/><rating value="-"/><rating value="-"/><rating value="-"/><rating value="-"/><rating value="-"/><rating value="-"/><rating value="-"/><rating value="-"/><rating value="-"/><rating value="-"/><rating value="-"/><rating value="0"/><rating value="0"/><rating value="0"/><rating value="0"/><rating value="0"/><rating value="1"/><rating value="1"/><rating value="1"/><rating value="1"/><rating value="1"/><rating value="1"/><rating value="1"/><rating value="1"/><rating value="1"/><rating value="1"/><rating value="2"/><rating value="2"/><rating value="2"/><rating value="2"/><rating value="2"/><rating value="2"/><rating value="2"/><rating value="3"/><rating value="3"/><rating value="3"/><rating value="3"/><rating value="3"/><rating value="3"/><rating value="3"/><rating value="3"/></goal><goal name="Soziale Kontakte in Dresden pflegen und erweitern" description=""><rating value="-"/><rating value="-"/><rating value="-"/><rating value="-"/><rating value="-"/><rating value="-"/><rating value="-"/><rating value="-"/><rating value="-"/><rating value="-"/><rating value="-"/><rating value="-"/><rating value="-"/><rating value="0"/><rating value="0"/><rating value="0"/><rating value="0"/><rating value="0"/><rating value="3"/><rating value="3"/><rating value="4"/><rating value="4"/><rating value="4"/><rating value="4"/><rating value="4"/><rating value="4"/><rating value="4"/><rating value="4"/><rating value="4"/><rating value="4"/><rating value="4"/><rating value="4"/><rating value="4"/><rating value="4"/><rating value="4"/><rating value="4"/><rating value="4"/><rating value="4"/><rating value="4"/><rating value="4"/><rating value="4"/><rating value="4"/><rating value="4"/></goal><goal name="Wohnung zufriedenstellend fertig einrichten" description=""><rating value="-"/><rating value="-"/><rating value="-"/><rating value="-"/><rating value="-"/><rating value="-"/><rating value="-"/><rating value="-"/><rating value="-"/><rating value="-"/><rating value="-"/><rating value="-"/><rating value="-"/><rating value="-"/><rating value="-"/><rating value="-"/><rating value="-"/><rating value="-"/><rating value="-"/><rating value="-"/><rating value="-"/><rating value="-"/><rating value="-"/><rating value="-"/><rating value="-"/><rating value="-"/><rating value="-"/><rating value="-"/><rating value="-"/><rating value="-"/><rating value="-"/><rating value="-"/><rating value="-"/><rating value="-"/><rating value="-"/><rating value="-"/><rating value="-"/><rating value="-"/><rating value="-"/><rating value="-"/><rating value="-"/><rating value="-"/><rating value="2"/></goal><goal name="Beruflich orientieren" description=""><rating value="-"/><rating value="-"/><rating value="-"/><rating value="-"/><rating value="-"/><rating value="-"/><rating value="-"/><rating value="-"/><rating value="-"/><rating value="-"/><rating value="-"/><rating value="-"/><rating value="-"/><rating value="-"/><rating value="-"/><rating value="-"/><rating value="-"/><rating value="-"/><rating value="-"/><rating value="-"/><rating value="-"/><rating value="-"/><rating value="-"/><rating value="-"/><rating value="-"/><rating value="-"/><rating value="-"/><rating value="-"/><rating value="-"/><rating value="-"/><rating value="-"/><rating value="-"/><rating value="-"/><rating value="-"/><rating value="-"/><rating value="-"/><rating value="-"/><rating value="-"/><rating value="-"/><rating value="-"/><rating value="-"/><rating value="-"/><rating value="2"/></goal></globalGoals><weeklyGoals><goal name="Brief an Kind schreiben"><rating value="9"/></goal><goal name="Mutter Fr&#xFC;hst&#xFC;ck"><rating value="1"/></goal><goal name="Yoga anmelden"><rating value="4"/></goal></weeklyGoals><weeklyGoals><goal name="1x am Tag was gutes tun"><rating value="7"/></goal><goal name="Contra Liste f&#xFC;r Ex + Abschiedsritual"><rating value="0"/></goal><goal name="Yoga + Elternfr&#xFC;hst&#xFC;ck"><rating value="4"/></goal></weeklyGoals><weeklyGoals><goal name="Treffen mit Bekannten aus Dresden (mind 2)"><rating value="4"/></goal><goal name="Brief an Romy schreiben"><rating value="9"/></goal><goal name="Contra Liste f&#xFC;r Ex + Abschiedsritual"><rating value="3"/></goal></weeklyGoals><weeklyGoals><goal name="Elternfr&#xFC;hst&#xFC;ck"><rating value="9"/></goal><goal name="Rituale mit Kind &#xFC;berlegen und in Alltag einbauen"><rating value="7"/></goal><goal name="&#xFC;ber Entscheidung klar werden /anschreiben"><rating value="8"/></goal></weeklyGoals><weeklyGoals><goal name="zum Familienfest gehen"><rating value="9"/></goal><goal name="Sammlung von Dingen die die Mutter-Kind-Bindung f&#xF6;rdern"><rating value="9"/></goal><goal name="Was st&#xF6;rt mich an mir? Was mag ich an mir?"><rating value="9"/></goal></weeklyGoals><weeklyGoals><goal name="anfangen Gitarre zu spielen"><rating value="4"/></goal><goal name="f&#xFC;r Kind was basteln"><rating value="4"/></goal><goal name="Was ist so schlimm am allein sein?"><rating value="0"/></goal></weeklyGoals><weeklyGoals><goal name="bei Vermieter wegen Wohnung informieren"><rating value="9"/></goal><goal name="was ist schlimm am allein bleiben? Wovor habe ich Angst in Beziehung/Freundschaft?"><rating value="0"/></goal><goal name="jeden tag was gutes tun (aufschreiben)"><rating value="9"/></goal></weeklyGoals><weeklyGoals><goal name="den Urlaub genie&#xDF;en und nicht streiten"><rating value="8"/></goal><goal name="Mutter-Kind Rituale"><rating value="9"/></goal><goal name="Wovor habe ich Angst in Beziehung/Freundschaft?"><rating value="4"/></goal></weeklyGoals><weeklyGoals><goal name="Liste mit Ziele, W&#xFC;nsche und Tr&#xE4;ume f&#xFC;r mein Leben machen"><rating value="0"/></goal><goal name="Staubsaugen"><rating value="8"/></goal><goal name="Lisa zum Rad fahren anschreiben"><rating value="9"/></goal></weeklyGoals><weeklyGoals><goal name="-"/></weeklyGoals><weeklyGoals><goal name="-"/></weeklyGoals><weeklyGoals><goal name="-"/></weeklyGoals><weeklyGoals><goal name="Ins Schwimmbad gehen"/><goal name="Mit jemandem treffen"/></weeklyGoals><weeklyGoals><goal name="Mit Schwester aushalten"><rating value="4"/></goal><goal name="L&#xE4;cheln"><rating value="2"/></goal></weeklyGoals><weeklyGoals><goal name="-"/></weeklyGoals><weeklyGoals><goal name="mit Leuten treffen"><rating value="5"/></goal><goal name="Kartons auspacken"><rating value="2"/></goal><goal name="Baby zeug kaufen"><rating value="2"/></goal></weeklyGoals><weeklyGoals><goal name="Wochen- und Tagespl&#xE4;ne erstellen. Einbringen von Ruhephasen und Zeit um mir Gutes zu tun"><rating value="1"/></goal><goal name="Kartons auspacken"><rating value="7"/></goal><goal name="Kleiderschrank, Stillbett, Bade/wickel-Kombi kaufen"><rating value="2"/></goal></weeklyGoals><weeklyGoals><goal name="Wochen- und Tagespl&#xE4;ne erstellen. Einbringen von Ruhephasen und Zeit um mir Gutes zu tun"><rating value="5"/></goal><goal name="Kleiderschrank, Stillbett, Bade/wickel-Kombi kaufen"><rating value="4"/></goal></weeklyGoals><weeklyGoals><goal name="kleine Mahlzeiten zu mir nehmen"><rating value="3"/></goal><goal name="mich mit mir selbst besch&#xE4;ftigen/Dinge die mir gut tun (malen, lesen...)"><rating value="4"/></goal><goal name="an aufgestellten Plan halten"><rating value="7"/></goal></weeklyGoals><weeklyGoals><goal name="Elternzeit Bescheid f&#xFC;rs Amt fertig machen und wegschaffen"><rating value="0"/></goal><goal name="ges&#xFC;nder essen (mehr Obst und Gem&#xFC;se, h&#xF6;chstens eine S&#xFC;&#xDF;igkeit am Tag, kleine Mahlzeiten)"><rating value="4"/></goal><goal name="mit Kind sprechen und mit Plan kontrollieren"><rating value="3"/></goal></weeklyGoals><weeklyGoals><goal name="mindestens zwei mal abends drau&#xDF;en spazieren gehen f&#xFC;r mindestens 30 min"><rating value="9"/></goal><goal name="mich bei mindestens zwei Personen aus Dresden melden"><rating value="9"/></goal></weeklyGoals><weeklyGoals><goal name="Dokumente beim Amt abgeben"><rating value="9"/></goal><goal name="Klinik Tasche anfangen zu packen"><rating value="4"/></goal><goal name="Pflege Produkte f&#xFC;r Baby und mich kaufen"><rating value="0"/></goal></weeklyGoals><weeklyGoals><goal name="einmal um den See spazieren und Enten f&#xFC;ttern"><rating value="0"/></goal><goal name="jeden tag mindestens eine Stunde raus"><rating value="9"/></goal><goal name="Obst Salat machen"><rating value="9"/></goal></weeklyGoals><weeklyGoals><goal name="kein naschzeug"><rating value="1"/></goal><goal name="im Krankenhaus Termin f&#xFC;r Untersuchung machen"><rating value="9"/></goal><goal name="Finanzamt anrufen und Steuer Nummer zuschicken lassen"><rating value="9"/></goal></weeklyGoals><weeklyGoals><goal name="-"/></weeklyGoals><weeklyGoals><goal name="-"/></weeklyGoals><weeklyGoals><goal name="Martin am we nicht lang kommen lassen. Nein durchsetzen!"><rating value="2"/></goal><goal name="eine Besch&#xE4;ftigung f&#xFC;r zu Hause finden"><rating value="3"/></goal><goal name="mit ca drei Freunden verabreden"><rating value="7"/></goal></weeklyGoals><weeklyGoals><goal name="kleine Rituale im tagesAblauf mit Melody einbauen"><rating value="6"/></goal><goal name="nach R&#xFC;ckbildungskurs in der N&#xE4;he informieren"><rating value="0"/></goal><goal name="wenn es mir wieder schlecht geht (heul Tag) mit jemandem dar&#xFC;ber reden"><rating value="4"/></goal><goal name="nach Kitas informieren und anmelden"><rating value="4"/></goal><goal name="Fotograf bestellen"><rating value="9"/></goal></weeklyGoals><weeklyGoals><goal name="Kitas anmelden"><rating value="0"/></goal><goal name="Herd bestellen"><rating value="0"/></goal><goal name="nach R&#xFC;ckbildungskurs in der N&#xE4;he informieren"><rating value="0"/></goal></weeklyGoals><weeklyGoals><goal name="letzten Antr&#xE4;ge fertig machen und ab schicken (bzgl Melody)"><rating value="9"/></goal><goal name="nicht bei der Stra&#xDF;e von Ed lang gehen und nicht nach seinem Auto schauen"><rating value="7"/></goal></weeklyGoals><weeklyGoals><goal name="mit Lisa sprechen (bzgl Gedanken/Bef&#xFC;rchtung wegen treffen) und ein treffen aus machen"><rating value="9"/></goal><goal name="beim R&#xFC;ckBildungsKurs anmelden"><rating value="9"/></goal><goal name="Friseur Termin vereinbaren"><rating value="9"/></goal></weeklyGoals><weeklyGoals><goal name="konsequent die &#xDC;bungen von Melody durch ziehen"><rating value="3"/></goal><goal name="versuchen von ed ab zu lenken"><rating value="2"/></goal></weeklyGoals><weeklyGoals><goal name="Entspannungs &#xDC;bungen f&#xFC;r r&#xFC;cken jeden abend und morgen ein paar &#xDC;bungen"><rating value="3"/></goal><goal name="jeden tag eine Achtsamkeits &#xDC;bung "><rating value="0"/></goal><goal name="Geburtstag planen"><rating value="0"/></goal></weeklyGoals><weeklyGoals><goal name="mit Mel zum doc gehen"><rating value="9"/></goal><goal name="soziales Netz um Hilfe bitten"><rating value="5"/></goal><goal name="Stress vermeiden"><rating value="7"/></goal></weeklyGoals><weeklyGoals><goal name="nicht vor dem schlafen mit dem Handy spielen ...nur f&#xFC;r Uhr im Bett benutzen"><rating value="3"/></goal><goal name="hin- und r&#xFC;ckFahrt nach Riese planen/organisieren"><rating value="7"/></goal></weeklyGoals><weeklyGoals><goal name="Nicht stressen lassen in Riesa"><rating value="4"/></goal></weeklyGoals><weeklyGoals><goal name="beim Amt anrufen und kl&#xE4;ren dass sie meinen Kontoauszug schon haben "><rating value="2"/></goal><goal name="&quot;was fange ich mit dem Jahr 2017 an?&quot; evtl Ziele festlegen"><rating value="8"/></goal><goal name="jeden Tag eine fremde Person anl&#xE4;cheln"><rating value="6"/></goal></weeklyGoals><weeklyGoals><goal name="jeden Tag was Positives mitteilen was an diesem Tag geschehen ist"><rating value="9"/></goal><goal name="mich &#xFC;bers Babyschwimmen informieren und beim Kinderarzt nach fragen"><rating value="4"/></goal><goal name="mal raus suchen was von den ganzen Info Material die die Jugendamt Tante mir mit gebracht hat was f&#xFC;r Mel und mich was w&#xE4;re"><rating value="8"/></goal></weeklyGoals><weeklyGoals><goal name="kaleb anrufen und um haushaltshilfe bitten"><rating value="0"/></goal><goal name="zu einer Mutter Kind Gruppe gehen"><rating value="9"/></goal><goal name="jeden Tag was Positives mitteilen was an diesem Tag geschehen ist"><rating value="9"/></goal></weeklyGoals><weeklyGoals><goal name="-"/></weeklyGoals><weeklyGoals><goal name="-"/></weeklyGoals><weeklyGoals><goal name="sich mit jemanden aus Dresden treffen"><rating value="9"/></goal><goal name="versuchen einmal pro Tag was f&#xFC;r mich zu machen"><rating value="7"/></goal><goal name="Ziele f&#xFC;r dieses jahr mit in die &#xFC;bergeordneten Ziele einbinden"><rating value="9"/></goal></weeklyGoals><weeklyGoals><goal name="die ganze Woche nicht auf die Waage steigen"><rating value="9"/></goal></weeklyGoals><weeklyGoals><goal name="Kartons entsorgen"><rating value="9"/></goal><goal name="Bad reinigen"><rating value="9"/></goal><goal name="neues Treffen mit Lisa ausmachen"><rating value="9"/></goal></weeklyGoals><weeklyGoals><goal name="daf&#xFC;r sorgen das die Gardinen Stangen an die wand kommen"><rating value="9"/></goal><goal name="Plan f&#xFC;r Riesa machen (von wann bis wann/wen will ich wann sehen)"><rating value="8"/></goal><goal name="eine Frucht pro tag in der fasten Zeit"><rating value="9"/></goal></weeklyGoals><weeklyGoals><goal name="&#xDC;bungen mit Mel jeden tag mindestens 4 mal durchf&#xFC;hren"><rating value="3"/></goal><goal name="Gedanken machen &#xFC;ber muss und kann Eigenschaften meines neuen zuk&#xFC;nftigen Partner"><rating value="0"/></goal><goal name="eine Frucht pro Tag in der fasten Zeit"><rating value="9"/></goal></weeklyGoals><weeklyGoals><goal name="neuen Kurs mit Mel finden"><rating value="3"/></goal><goal name="Kita raus suchen f&#xFC;r Mel"><rating value="0"/></goal><goal name="fasten"><rating value="9"/></goal></weeklyGoals><weeklyGoals><goal name="Gardinen kaufen"><rating value="2"/></goal><goal name="Staubsaugen"><rating value="9"/></goal><goal name="fasten"><rating value="9"/></goal></weeklyGoals><weeklyGoals><goal name="Formular f&#xFC;r Kita ausf&#xFC;llen und abschicken"><rating value="9"/></goal><goal name="Fliegengitter f&#xFC;r Fenster besorgen und anbringen"><rating value="3"/></goal><goal name="fasten"><rating value="9"/></goal></weeklyGoals><weeklyGoals><goal name="Beikost f&#xFC;r Mel wieder einf&#xFC;hren "><rating value="9"/></goal><goal name="neues Handy  aktivieren  und einrichten"><rating value="1"/></goal><goal name="fasten"><rating value="9"/></goal></weeklyGoals><weeklyGoals><goal name="neues treffen mit Sarah aus machen"><rating value="3"/></goal><goal name="N&#xE4;gel lackieren"><rating value="3"/></goal><goal name="fasten"><rating value="8"/></goal></weeklyGoals><weeklyGoals><goal name="-"/></weeklyGoals><weeklyGoals><goal name="-"/></weeklyGoals><weeklyGoals><goal name="Mai-Ziel: Regelm&#xE4;&#xDF;ig Staubsaugen"><rating value="9"/></goal></weeklyGoals><weeklyGoals><goal name="Nichts S&#xFC;&#xDF;es kaufen"><rating value="2"/></goal><goal name="Geschenke fertig machen"><rating value="8"/></goal><goal name="Mai-Ziel: Regelm&#xE4;&#xDF;ig Staubsaugen"><rating value="1"/></goal></weeklyGoals><weeklyGoals><goal name="Beim Babyschwimmen anmelden"/><goal name="Bei meiner &quot;FamilienHilfe&quot; anrufen und um Hilfe bitten bez&#xFC;glich Unterhalt"/><goal name="Mai-Ziel: Regelm&#xE4;&#xDF;ig Staubsaugen"/></weeklyGoals><weeklyGoals><goal name="-"/></weeklyGoals><weeklyGoals><goal name="todo Liste abarbeiten"><rating value="7"/></goal><goal name="Juni-Ziel: einmal pro Woche mit Mel nur raus gehen ohne Erledigungen"><rating value="7"/></goal></weeklyGoals><weeklyGoals><goal name="Juni-Ziel: einmal pro Woche mit Mel nur raus gehen ohne Erledigungen"><rating value="7"/></goal></weeklyGoals><weeklyGoals><goal name="Juni-Ziel: einmal pro Woche mit Mel nur raus gehen ohne Erledigungen"><rating value="7"/></goal></weeklyGoals><weeklyGoals><goal name="enthaaren (Beine/Venus/Achseln)"><rating value="7"/></goal><goal name="Schr&#xE4;nke f&#xFC;rs Bad kaufen"><rating value="0"/></goal><goal name="Juni-Ziel: einmal pro Woche mit Mel nur raus gehen ohne Erledigungen"><rating value="8"/></goal></weeklyGoals><weeklyGoals><goal name="Regelung UnterhaltsVorschuss mit Jugendamt und Arbeitsamt"/><goal name="Bad Schrank kaufen oder Gardinen f&#xFC;r ein Fenster"/><goal name="Juni-Ziel: einmal pro Woche mit Mel nur raus gehen ohne Erledigungen"/></weeklyGoals><weeklyGoals><goal name="Geburtstags Kalender kaufen"><rating value="0"/></goal><goal name="Friseur Termin machen "><rating value="0"/></goal><goal name="Juli-Ziel: ges&#xFC;nder essen"><rating value="0"/></goal></weeklyGoals><weeklyGoals><goal name="-"/></weeklyGoals><weeklyGoals><goal name="-"/></weeklyGoals><weeklyGoals><goal name="t&#xE4;glich an das beste zur&#xFC;ck denken"><rating value="8"/></goal><goal name="einmal in der Ostsee"><rating value="9"/></goal><goal name="Juli-Ziel: ges&#xFC;nder essen"><rating value="4"/></goal></weeklyGoals><weeklyGoals><goal name="neuen FrauenArzt Termin"><rating value="9"/></goal><goal name="Termin bei Diakonie wegen Landes Eltern Geld"><rating value="9"/></goal><goal name="August-Ziel: versuchen wenig Geld aus zu geben ohne gr&#xF6;&#xDF;ere Einschr&#xE4;nkungen zu haben"><rating value="3"/></goal></weeklyGoals><weeklyGoals><goal name="-"/></weeklyGoals><weeklyGoals><goal name="-"/></weeklyGoals><weeklyGoals><goal name="-"/></weeklyGoals><weeklyGoals><goal name="-"/></weeklyGoals><weeklyGoals><goal name="Termin f&#xFC;r Berufsberatung machen"><rating value="2"/></goal><goal name="informieren wieviel und wo offene Kitas sind. bzw &#xFC;ber verschiedene Konzerte informieren"><rating value="4"/></goal><goal name="September-Ziel: jeden tag eine kleine Entspannungs&#xDC;bung f&#xFC;r den R&#xFC;cken. 2-5 min"><rating value="4"/></goal></weeklyGoals><weeklyGoals><goal name="Termin mit Psychologin aus machen"><rating value="1"/></goal><goal name="Ausweis beantragen"><rating value="9"/></goal><goal name="September-Ziel: jeden tag eine kleine Entspannungs&#xDC;bung f&#xFC;r den R&#xFC;cken. 2-5 min"><rating value="1"/></goal></weeklyGoals><weeklyGoals><goal name="Plan f&#xFC;r melodys Geburtstag erstellen"><rating value="7"/></goal><goal name="Wahl-O-Mat benutzen und w&#xE4;hlen gehen"><rating value="9"/></goal><goal name="September-Ziel: jeden tag eine kleine Entspannungs&#xDC;bung f&#xFC;r den R&#xFC;cken. 2-5 min"><rating value="4"/></goal></weeklyGoals><weeklyGoals><goal name="Foto drucken f&#xFC;r melodys Album"><rating value="9"/></goal><goal name="Urlaubs Kasse anlegen "><rating value="9"/></goal><goal name="September-Ziel: jeden tag eine kleine Entspannungs&#xDC;bung f&#xFC;r den R&#xFC;cken. 2-5 min"><rating value="3"/></goal></weeklyGoals><weeklyGoals><goal name="sagen was mich st&#xF6;rt/was ich m&#xF6;chte (nicht unterschwellig)"><rating value="4"/></goal><goal name="Einladungen f&#xFC;r melodys Geburtstag schreiben und abschicken"><rating value="9"/></goal><goal name="Oktober-Ziel: 3&#xD7;in der Woche im Buch lesen"><rating value="0"/></goal></weeklyGoals><weeklyGoals><goal name="zur AOK gehen wegen Zahnarzt kostet voranschlag f&#xFC;r Krone abgeben"><rating value="9"/></goal><goal name="f&#xFC;r Geburtstag von melody alles vorbereiten"><rating value="9"/></goal><goal name="Oktober-Ziel: 3&#xD7;in der Woche im Buch lesen"><rating value="6"/></goal></weeklyGoals><weeklyGoals><goal name="zum hautarzt gehen "/><goal name="Oktober-Ziel: 3&#xD7;in der Woche im Buch lesen"/></weeklyGoals><weeklyGoals><goal name="-"/></weeklyGoals><weeklyGoals><goal name="beim Psychologen anmelden und in Klinik anmelden"><rating value="4"/></goal><goal name="Liste schreiben mit dringen die ich gerne machen will"><rating value="4"/></goal><goal name="November-Ziel: 1&#xD7; pro Woche ca 1-2 Stunden Zeit f&#xFC;r mich finden"><rating value="9"/></goal></weeklyGoals><weeklyGoals><goal name="Tagesklinik anrufen und um &#xDC;berweisung k&#xFC;mmern"><rating value="3"/></goal><goal name="November-Ziel: 1&#xD7; pro Woche ca 1-2 Stunden Zeit f&#xFC;r mich finden"><rating value="8"/></goal></weeklyGoals><weeklyGoals><goal name="Zahnarzt Termin wegen Krone machen"><rating value="9"/></goal><goal name="anrufen Tages Klinik Termin"><rating value="4"/></goal><goal name="November-Ziel: 1&#xD7; pro Woche ca 1-2 Stunden Zeit f&#xFC;r mich finden"><rating value="9"/></goal></weeklyGoals><weeklyGoals><goal name="Schrei Tagebuch anlegen"><rating value="0"/></goal><goal name="Einen ruhigen Tag mit mel"><rating value="9"/></goal><goal name="November-Ziel: 1&#xD7; pro Woche ca 1-2 Stunden Zeit f&#xFC;r mich finden"><rating value="9"/></goal></weeklyGoals><weeklyGoals><goal name="negativ Tagebuch"><rating value="5"/></goal><goal name="November-Ziel: 1&#xD7; pro Woche ca 1-2 Stunden Zeit f&#xFC;r mich finden"><rating value="7"/></goal></weeklyGoals><weeklyGoals><goal name="treffen mit Lisa ausmachen"/><goal name="minderer 1 was bei ikea/ElbePark kaufen"/><goal name="Dezember-Ziel: to do Liste ab arbeiten. 1-2 was pro Woche"/></weeklyGoals><weeklyGoals><goal name="-"/></weeklyGoals><weeklyGoals><goal name="zum Jugendamt gehen und wegen Familie Hilfe nach fragen "><rating value="9"/></goal><goal name="beim Fotografen einen Termin machen "><rating value="9"/></goal><goal name="Dezember-Ziel: to do Liste ab arbeiten. 1-2 was pro Woche"><rating value="9"/></goal></weeklyGoals><weeklyGoals><goal name="-"/></weeklyGoals><weeklyGoals><goal name="alte &#xFC;bergeordnete  Ziele auswerten"/><goal name="positives 2017"/><goal name="neue &#xFC;bergeordnete Ziele erstellen"/></weeklyGoals></patient>
+<patient name="Martina">
+	<globalGoals>
+		<goal name="Mehr soziale Kontakte in Dresden kn&#xFC;pfen" description="">
+			<rating value="2" />
+			<rating value="2" />
+			<rating value="2" />
+			<rating value="2" />
+			<rating value="3" />
+			<rating value="4" />
+			<rating value="5" />
+			<rating value="5" />
+			<rating value="5" />
+			<rating value="6" />
+			<rating value="-" />
+			<rating value="-" />
+			<rating value="-" />
+			<rating value="-" />
+			<rating value="-" />
+			<rating value="-" />
+			<rating value="-" />
+			<rating value="-" />
+			<rating value="-" />
+			<rating value="-" />
+			<rating value="-" />
+			<rating value="-" />
+			<rating value="-" />
+			<rating value="-" />
+			<rating value="-" />
+			<rating value="-" />
+			<rating value="-" />
+			<rating value="-" />
+			<rating value="-" />
+			<rating value="-" />
+			<rating value="-" />
+			<rating value="-" />
+			<rating value="-" />
+			<rating value="-" />
+			<rating value="-" />
+			<rating value="-" />
+			<rating value="-" />
+			<rating value="-" />
+			<rating value="-" />
+			<rating value="-" />
+			<rating value="-" />
+			<rating value="-" />
+			<rating value="-" />
+		</goal>
+		<goal name="Akzeptanz der Mutterrolle" description="">
+			<rating value="1" />
+			<rating value="2" />
+			<rating value="2" />
+			<rating value="3" />
+			<rating value="4" />
+			<rating value="5" />
+			<rating value="6" />
+			<rating value="6" />
+			<rating value="7" />
+			<rating value="8" />
+			<rating value="-" />
+			<rating value="-" />
+			<rating value="-" />
+			<rating value="-" />
+			<rating value="-" />
+			<rating value="-" />
+			<rating value="-" />
+			<rating value="-" />
+			<rating value="-" />
+			<rating value="-" />
+			<rating value="5" />
+			<rating value="5" />
+			<rating value="5" />
+			<rating value="5" />
+			<rating value="5" />
+			<rating value="5" />
+			<rating value="5" />
+			<rating value="5" />
+			<rating value="6" />
+			<rating value="6" />
+			<rating value="6" />
+			<rating value="7" />
+			<rating value="7" />
+			<rating value="8" />
+			<rating value="8" />
+			<rating value="8" />
+			<rating value="8" />
+			<rating value="8" />
+			<rating value="9" />
+			<rating value="-" />
+			<rating value="-" />
+			<rating value="-" />
+			<rating value="-" />
+		</goal>
+		<goal name="Selbstwert/-liebe steigern" description="- Angst vor dem Alleinbleiben bek&#xE4;mpfen">
+			<rating value="0" />
+			<rating value="1" />
+			<rating value="2" />
+			<rating value="2" />
+			<rating value="2" />
+			<rating value="3" />
+			<rating value="4" />
+			<rating value="5" />
+			<rating value="6" />
+			<rating value="7" />
+			<rating value="-" />
+			<rating value="-" />
+			<rating value="-" />
+			<rating value="-" />
+			<rating value="-" />
+			<rating value="-" />
+			<rating value="-" />
+			<rating value="-" />
+			<rating value="-" />
+			<rating value="-" />
+			<rating value="5" />
+			<rating value="5" />
+			<rating value="5" />
+			<rating value="4" />
+			<rating value="4" />
+			<rating value="4" />
+			<rating value="4" />
+			<rating value="4" />
+			<rating value="4" />
+			<rating value="4" />
+			<rating value="4" />
+			<rating value="4" />
+			<rating value="5" />
+			<rating value="5" />
+			<rating value="5" />
+			<rating value="5" />
+			<rating value="5" />
+			<rating value="5" />
+			<rating value="5" />
+			<rating value="5" />
+			<rating value="5" />
+			<rating value="5" />
+			<rating value="5" />
+		</goal>
+		<goal name="Auf Inneres Kind h&#xF6;ren" description="- ersten Impulsen folgen">
+			<rating value="-" />
+			<rating value="-" />
+			<rating value="-" />
+			<rating value="-" />
+			<rating value="-" />
+			<rating value="-" />
+			<rating value="-" />
+			<rating value="-" />
+			<rating value="-" />
+			<rating value="-" />
+			<rating value="-" />
+			<rating value="-" />
+			<rating value="-" />
+			<rating value="0" />
+			<rating value="0" />
+			<rating value="0" />
+			<rating value="0" />
+			<rating value="0" />
+			<rating value="1" />
+			<rating value="1" />
+			<rating value="1" />
+			<rating value="1" />
+			<rating value="1" />
+			<rating value="1" />
+			<rating value="1" />
+			<rating value="1" />
+			<rating value="1" />
+			<rating value="1" />
+			<rating value="2" />
+			<rating value="2" />
+			<rating value="2" />
+			<rating value="2" />
+			<rating value="2" />
+			<rating value="2" />
+			<rating value="2" />
+			<rating value="3" />
+			<rating value="3" />
+			<rating value="3" />
+			<rating value="3" />
+			<rating value="3" />
+			<rating value="3" />
+			<rating value="3" />
+			<rating value="3" />
+		</goal>
+		<goal name="Soziale Kontakte in Dresden pflegen und erweitern" description="">
+			<rating value="-" />
+			<rating value="-" />
+			<rating value="-" />
+			<rating value="-" />
+			<rating value="-" />
+			<rating value="-" />
+			<rating value="-" />
+			<rating value="-" />
+			<rating value="-" />
+			<rating value="-" />
+			<rating value="-" />
+			<rating value="-" />
+			<rating value="-" />
+			<rating value="0" />
+			<rating value="0" />
+			<rating value="0" />
+			<rating value="0" />
+			<rating value="0" />
+			<rating value="3" />
+			<rating value="3" />
+			<rating value="4" />
+			<rating value="4" />
+			<rating value="4" />
+			<rating value="4" />
+			<rating value="4" />
+			<rating value="4" />
+			<rating value="4" />
+			<rating value="4" />
+			<rating value="4" />
+			<rating value="4" />
+			<rating value="4" />
+			<rating value="4" />
+			<rating value="4" />
+			<rating value="4" />
+			<rating value="4" />
+			<rating value="4" />
+			<rating value="4" />
+			<rating value="4" />
+			<rating value="4" />
+			<rating value="4" />
+			<rating value="4" />
+			<rating value="4" />
+			<rating value="4" />
+		</goal>
+		<goal name="Wohnung zufriedenstellend fertig einrichten" description="">
+			<rating value="-" />
+			<rating value="-" />
+			<rating value="-" />
+			<rating value="-" />
+			<rating value="-" />
+			<rating value="-" />
+			<rating value="-" />
+			<rating value="-" />
+			<rating value="-" />
+			<rating value="-" />
+			<rating value="-" />
+			<rating value="-" />
+			<rating value="-" />
+			<rating value="-" />
+			<rating value="-" />
+			<rating value="-" />
+			<rating value="-" />
+			<rating value="-" />
+			<rating value="-" />
+			<rating value="-" />
+			<rating value="-" />
+			<rating value="-" />
+			<rating value="-" />
+			<rating value="-" />
+			<rating value="-" />
+			<rating value="-" />
+			<rating value="-" />
+			<rating value="-" />
+			<rating value="-" />
+			<rating value="-" />
+			<rating value="-" />
+			<rating value="-" />
+			<rating value="-" />
+			<rating value="-" />
+			<rating value="-" />
+			<rating value="-" />
+			<rating value="-" />
+			<rating value="-" />
+			<rating value="-" />
+			<rating value="-" />
+			<rating value="-" />
+			<rating value="-" />
+			<rating value="2" />
+		</goal>
+		<goal name="Beruflich orientieren" description="">
+			<rating value="-" />
+			<rating value="-" />
+			<rating value="-" />
+			<rating value="-" />
+			<rating value="-" />
+			<rating value="-" />
+			<rating value="-" />
+			<rating value="-" />
+			<rating value="-" />
+			<rating value="-" />
+			<rating value="-" />
+			<rating value="-" />
+			<rating value="-" />
+			<rating value="-" />
+			<rating value="-" />
+			<rating value="-" />
+			<rating value="-" />
+			<rating value="-" />
+			<rating value="-" />
+			<rating value="-" />
+			<rating value="-" />
+			<rating value="-" />
+			<rating value="-" />
+			<rating value="-" />
+			<rating value="-" />
+			<rating value="-" />
+			<rating value="-" />
+			<rating value="-" />
+			<rating value="-" />
+			<rating value="-" />
+			<rating value="-" />
+			<rating value="-" />
+			<rating value="-" />
+			<rating value="-" />
+			<rating value="-" />
+			<rating value="-" />
+			<rating value="-" />
+			<rating value="-" />
+			<rating value="-" />
+			<rating value="-" />
+			<rating value="-" />
+			<rating value="-" />
+			<rating value="2" />
+		</goal>
+	</globalGoals>
+	<weeklyGoals>
+		<goal name="Brief an Kind schreiben">
+			<rating value="9" />
+		</goal>
+		<goal name="Mutter Fr&#xFC;hst&#xFC;ck">
+			<rating value="1" />
+		</goal>
+		<goal name="Yoga anmelden">
+			<rating value="4" />
+		</goal>
+	</weeklyGoals>
+	<weeklyGoals>
+		<goal name="1x am Tag was gutes tun">
+			<rating value="7" />
+		</goal>
+		<goal name="Contra Liste f&#xFC;r Ex + Abschiedsritual">
+			<rating value="0" />
+		</goal>
+		<goal name="Yoga + Elternfr&#xFC;hst&#xFC;ck">
+			<rating value="4" />
+		</goal>
+	</weeklyGoals>
+	<weeklyGoals>
+		<goal name="Treffen mit Bekannten aus Dresden (mind 2)">
+			<rating value="4" />
+		</goal>
+		<goal name="Brief an Romy schreiben">
+			<rating value="9" />
+		</goal>
+		<goal name="Contra Liste f&#xFC;r Ex + Abschiedsritual">
+			<rating value="3" />
+		</goal>
+	</weeklyGoals>
+	<weeklyGoals>
+		<goal name="Elternfr&#xFC;hst&#xFC;ck">
+			<rating value="9" />
+		</goal>
+		<goal name="Rituale mit Kind &#xFC;berlegen und in Alltag einbauen">
+			<rating value="7" />
+		</goal>
+		<goal name="&#xFC;ber Entscheidung klar werden /anschreiben">
+			<rating value="8" />
+		</goal>
+	</weeklyGoals>
+	<weeklyGoals>
+		<goal name="zum Familienfest gehen">
+			<rating value="9" />
+		</goal>
+		<goal name="Sammlung von Dingen die die Mutter-Kind-Bindung f&#xF6;rdern">
+			<rating value="9" />
+		</goal>
+		<goal name="Was st&#xF6;rt mich an mir? Was mag ich an mir?">
+			<rating value="9" />
+		</goal>
+	</weeklyGoals>
+	<weeklyGoals>
+		<goal name="anfangen Gitarre zu spielen">
+			<rating value="4" />
+		</goal>
+		<goal name="f&#xFC;r Kind was basteln">
+			<rating value="4" />
+		</goal>
+		<goal name="Was ist so schlimm am allein sein?">
+			<rating value="0" />
+		</goal>
+	</weeklyGoals>
+	<weeklyGoals>
+		<goal name="bei Vermieter wegen Wohnung informieren">
+			<rating value="9" />
+		</goal>
+		<goal name="was ist schlimm am allein bleiben? Wovor habe ich Angst in Beziehung/Freundschaft?">
+			<rating value="0" />
+		</goal>
+		<goal name="jeden tag was gutes tun (aufschreiben)">
+			<rating value="9" />
+		</goal>
+	</weeklyGoals>
+	<weeklyGoals>
+		<goal name="den Urlaub genie&#xDF;en und nicht streiten">
+			<rating value="8" />
+		</goal>
+		<goal name="Mutter-Kind Rituale">
+			<rating value="9" />
+		</goal>
+		<goal name="Wovor habe ich Angst in Beziehung/Freundschaft?">
+			<rating value="4" />
+		</goal>
+	</weeklyGoals>
+	<weeklyGoals>
+		<goal name="Liste mit Ziele, W&#xFC;nsche und Tr&#xE4;ume f&#xFC;r mein Leben machen">
+			<rating value="0" />
+		</goal>
+		<goal name="Staubsaugen">
+			<rating value="8" />
+		</goal>
+		<goal name="Lisa zum Rad fahren anschreiben">
+			<rating value="9" />
+		</goal>
+	</weeklyGoals>
+	<weeklyGoals>
+		<goal name="-" />
+	</weeklyGoals>
+	<weeklyGoals>
+		<goal name="-" />
+	</weeklyGoals>
+	<weeklyGoals>
+		<goal name="-" />
+	</weeklyGoals>
+	<weeklyGoals>
+		<goal name="Ins Schwimmbad gehen" />
+		<goal name="Mit jemandem treffen" />
+	</weeklyGoals>
+	<weeklyGoals>
+		<goal name="Mit Schwester aushalten">
+			<rating value="4" />
+		</goal>
+		<goal name="L&#xE4;cheln">
+			<rating value="2" />
+		</goal>
+	</weeklyGoals>
+	<weeklyGoals>
+		<goal name="-" />
+	</weeklyGoals>
+	<weeklyGoals>
+		<goal name="mit Leuten treffen">
+			<rating value="5" />
+		</goal>
+		<goal name="Kartons auspacken">
+			<rating value="2" />
+		</goal>
+		<goal name="Baby zeug kaufen">
+			<rating value="2" />
+		</goal>
+	</weeklyGoals>
+	<weeklyGoals>
+		<goal name="Wochen- und Tagespl&#xE4;ne erstellen. Einbringen von Ruhephasen und Zeit um mir Gutes zu tun">
+			<rating value="1" />
+		</goal>
+		<goal name="Kartons auspacken">
+			<rating value="7" />
+		</goal>
+		<goal name="Kleiderschrank, Stillbett, Bade/wickel-Kombi kaufen">
+			<rating value="2" />
+		</goal>
+	</weeklyGoals>
+	<weeklyGoals>
+		<goal name="Wochen- und Tagespl&#xE4;ne erstellen. Einbringen von Ruhephasen und Zeit um mir Gutes zu tun">
+			<rating value="5" />
+		</goal>
+		<goal name="Kleiderschrank, Stillbett, Bade/wickel-Kombi kaufen">
+			<rating value="4" />
+		</goal>
+	</weeklyGoals>
+	<weeklyGoals>
+		<goal name="kleine Mahlzeiten zu mir nehmen">
+			<rating value="3" />
+		</goal>
+		<goal name="mich mit mir selbst besch&#xE4;ftigen/Dinge die mir gut tun (malen, lesen...)">
+			<rating value="4" />
+		</goal>
+		<goal name="an aufgestellten Plan halten">
+			<rating value="7" />
+		</goal>
+	</weeklyGoals>
+	<weeklyGoals>
+		<goal name="Elternzeit Bescheid f&#xFC;rs Amt fertig machen und wegschaffen">
+			<rating value="0" />
+		</goal>
+		<goal
+			name="ges&#xFC;nder essen (mehr Obst und Gem&#xFC;se, h&#xF6;chstens eine S&#xFC;&#xDF;igkeit am Tag, kleine Mahlzeiten)">
+			<rating value="4" />
+		</goal>
+		<goal name="mit Kind sprechen und mit Plan kontrollieren">
+			<rating value="3" />
+		</goal>
+	</weeklyGoals>
+	<weeklyGoals>
+		<goal name="mindestens zwei mal abends drau&#xDF;en spazieren gehen f&#xFC;r mindestens 30 min">
+			<rating value="9" />
+		</goal>
+		<goal name="mich bei mindestens zwei Personen aus Dresden melden">
+			<rating value="9" />
+		</goal>
+	</weeklyGoals>
+	<weeklyGoals>
+		<goal name="Dokumente beim Amt abgeben">
+			<rating value="9" />
+		</goal>
+		<goal name="Klinik Tasche anfangen zu packen">
+			<rating value="4" />
+		</goal>
+		<goal name="Pflege Produkte f&#xFC;r Baby und mich kaufen">
+			<rating value="0" />
+		</goal>
+	</weeklyGoals>
+	<weeklyGoals>
+		<goal name="einmal um den See spazieren und Enten f&#xFC;ttern">
+			<rating value="0" />
+		</goal>
+		<goal name="jeden tag mindestens eine Stunde raus">
+			<rating value="9" />
+		</goal>
+		<goal name="Obst Salat machen">
+			<rating value="9" />
+		</goal>
+	</weeklyGoals>
+	<weeklyGoals>
+		<goal name="kein naschzeug">
+			<rating value="1" />
+		</goal>
+		<goal name="im Krankenhaus Termin f&#xFC;r Untersuchung machen">
+			<rating value="9" />
+		</goal>
+		<goal name="Finanzamt anrufen und Steuer Nummer zuschicken lassen">
+			<rating value="9" />
+		</goal>
+	</weeklyGoals>
+	<weeklyGoals>
+		<goal name="-" />
+	</weeklyGoals>
+	<weeklyGoals>
+		<goal name="-" />
+	</weeklyGoals>
+	<weeklyGoals>
+		<goal name="Martin am we nicht lang kommen lassen. Nein durchsetzen!">
+			<rating value="2" />
+		</goal>
+		<goal name="eine Besch&#xE4;ftigung f&#xFC;r zu Hause finden">
+			<rating value="3" />
+		</goal>
+		<goal name="mit ca drei Freunden verabreden">
+			<rating value="7" />
+		</goal>
+	</weeklyGoals>
+	<weeklyGoals>
+		<goal name="kleine Rituale im tagesAblauf mit Melody einbauen">
+			<rating value="6" />
+		</goal>
+		<goal name="nach R&#xFC;ckbildungskurs in der N&#xE4;he informieren">
+			<rating value="0" />
+		</goal>
+		<goal name="wenn es mir wieder schlecht geht (heul Tag) mit jemandem dar&#xFC;ber reden">
+			<rating value="4" />
+		</goal>
+		<goal name="nach Kitas informieren und anmelden">
+			<rating value="4" />
+		</goal>
+		<goal name="Fotograf bestellen">
+			<rating value="9" />
+		</goal>
+	</weeklyGoals>
+	<weeklyGoals>
+		<goal name="Kitas anmelden">
+			<rating value="0" />
+		</goal>
+		<goal name="Herd bestellen">
+			<rating value="0" />
+		</goal>
+		<goal name="nach R&#xFC;ckbildungskurs in der N&#xE4;he informieren">
+			<rating value="0" />
+		</goal>
+	</weeklyGoals>
+	<weeklyGoals>
+		<goal name="letzten Antr&#xE4;ge fertig machen und ab schicken (bzgl Melody)">
+			<rating value="9" />
+		</goal>
+		<goal name="nicht bei der Stra&#xDF;e von Ed lang gehen und nicht nach seinem Auto schauen">
+			<rating value="7" />
+		</goal>
+	</weeklyGoals>
+	<weeklyGoals>
+		<goal name="mit Lisa sprechen (bzgl Gedanken/Bef&#xFC;rchtung wegen treffen) und ein treffen aus machen">
+			<rating value="9" />
+		</goal>
+		<goal name="beim R&#xFC;ckBildungsKurs anmelden">
+			<rating value="9" />
+		</goal>
+		<goal name="Friseur Termin vereinbaren">
+			<rating value="9" />
+		</goal>
+	</weeklyGoals>
+	<weeklyGoals>
+		<goal name="konsequent die &#xDC;bungen von Melody durch ziehen">
+			<rating value="3" />
+		</goal>
+		<goal name="versuchen von ed ab zu lenken">
+			<rating value="2" />
+		</goal>
+	</weeklyGoals>
+	<weeklyGoals>
+		<goal name="Entspannungs &#xDC;bungen f&#xFC;r r&#xFC;cken jeden abend und morgen ein paar &#xDC;bungen">
+			<rating value="3" />
+		</goal>
+		<goal name="jeden tag eine Achtsamkeits &#xDC;bung ">
+			<rating value="0" />
+		</goal>
+		<goal name="Geburtstag planen">
+			<rating value="0" />
+		</goal>
+	</weeklyGoals>
+	<weeklyGoals>
+		<goal name="mit Mel zum doc gehen">
+			<rating value="9" />
+		</goal>
+		<goal name="soziales Netz um Hilfe bitten">
+			<rating value="5" />
+		</goal>
+		<goal name="Stress vermeiden">
+			<rating value="7" />
+		</goal>
+	</weeklyGoals>
+	<weeklyGoals>
+		<goal name="nicht vor dem schlafen mit dem Handy spielen ...nur f&#xFC;r Uhr im Bett benutzen">
+			<rating value="3" />
+		</goal>
+		<goal name="hin- und r&#xFC;ckFahrt nach Riese planen/organisieren">
+			<rating value="7" />
+		</goal>
+	</weeklyGoals>
+	<weeklyGoals>
+		<goal name="Nicht stressen lassen in Riesa">
+			<rating value="4" />
+		</goal>
+	</weeklyGoals>
+	<weeklyGoals>
+		<goal name="beim Amt anrufen und kl&#xE4;ren dass sie meinen Kontoauszug schon haben ">
+			<rating value="2" />
+		</goal>
+		<goal name="&quot;was fange ich mit dem Jahr 2017 an?&quot; evtl Ziele festlegen">
+			<rating value="8" />
+		</goal>
+		<goal name="jeden Tag eine fremde Person anl&#xE4;cheln">
+			<rating value="6" />
+		</goal>
+	</weeklyGoals>
+	<weeklyGoals>
+		<goal name="jeden Tag was Positives mitteilen was an diesem Tag geschehen ist">
+			<rating value="9" />
+		</goal>
+		<goal name="mich &#xFC;bers Babyschwimmen informieren und beim Kinderarzt nach fragen">
+			<rating value="4" />
+		</goal>
+		<goal
+			name="mal raus suchen was von den ganzen Info Material die die Jugendamt Tante mir mit gebracht hat was f&#xFC;r Mel und mich was w&#xE4;re">
+			<rating value="8" />
+		</goal>
+	</weeklyGoals>
+	<weeklyGoals>
+		<goal name="kaleb anrufen und um haushaltshilfe bitten">
+			<rating value="0" />
+		</goal>
+		<goal name="zu einer Mutter Kind Gruppe gehen">
+			<rating value="9" />
+		</goal>
+		<goal name="jeden Tag was Positives mitteilen was an diesem Tag geschehen ist">
+			<rating value="9" />
+		</goal>
+	</weeklyGoals>
+	<weeklyGoals>
+		<goal name="-" />
+	</weeklyGoals>
+	<weeklyGoals>
+		<goal name="-" />
+	</weeklyGoals>
+	<weeklyGoals>
+		<goal name="sich mit jemanden aus Dresden treffen">
+			<rating value="9" />
+		</goal>
+		<goal name="versuchen einmal pro Tag was f&#xFC;r mich zu machen">
+			<rating value="7" />
+		</goal>
+		<goal name="Ziele f&#xFC;r dieses jahr mit in die &#xFC;bergeordneten Ziele einbinden">
+			<rating value="9" />
+		</goal>
+	</weeklyGoals>
+	<weeklyGoals>
+		<goal name="die ganze Woche nicht auf die Waage steigen">
+			<rating value="9" />
+		</goal>
+	</weeklyGoals>
+	<weeklyGoals>
+		<goal name="Kartons entsorgen">
+			<rating value="9" />
+		</goal>
+		<goal name="Bad reinigen">
+			<rating value="9" />
+		</goal>
+		<goal name="neues Treffen mit Lisa ausmachen">
+			<rating value="9" />
+		</goal>
+	</weeklyGoals>
+	<weeklyGoals>
+		<goal name="daf&#xFC;r sorgen das die Gardinen Stangen an die wand kommen">
+			<rating value="9" />
+		</goal>
+		<goal name="Plan f&#xFC;r Riesa machen (von wann bis wann/wen will ich wann sehen)">
+			<rating value="8" />
+		</goal>
+		<goal name="eine Frucht pro tag in der fasten Zeit">
+			<rating value="9" />
+		</goal>
+	</weeklyGoals>
+	<weeklyGoals>
+		<goal name="&#xDC;bungen mit Mel jeden tag mindestens 4 mal durchf&#xFC;hren">
+			<rating value="3" />
+		</goal>
+		<goal name="Gedanken machen &#xFC;ber muss und kann Eigenschaften meines neuen zuk&#xFC;nftigen Partner">
+			<rating value="0" />
+		</goal>
+		<goal name="eine Frucht pro Tag in der fasten Zeit">
+			<rating value="9" />
+		</goal>
+	</weeklyGoals>
+	<weeklyGoals>
+		<goal name="neuen Kurs mit Mel finden">
+			<rating value="3" />
+		</goal>
+		<goal name="Kita raus suchen f&#xFC;r Mel">
+			<rating value="0" />
+		</goal>
+		<goal name="fasten">
+			<rating value="9" />
+		</goal>
+	</weeklyGoals>
+	<weeklyGoals>
+		<goal name="Gardinen kaufen">
+			<rating value="2" />
+		</goal>
+		<goal name="Staubsaugen">
+			<rating value="9" />
+		</goal>
+		<goal name="fasten">
+			<rating value="9" />
+		</goal>
+	</weeklyGoals>
+	<weeklyGoals>
+		<goal name="Formular f&#xFC;r Kita ausf&#xFC;llen und abschicken">
+			<rating value="9" />
+		</goal>
+		<goal name="Fliegengitter f&#xFC;r Fenster besorgen und anbringen">
+			<rating value="3" />
+		</goal>
+		<goal name="fasten">
+			<rating value="9" />
+		</goal>
+	</weeklyGoals>
+	<weeklyGoals>
+		<goal name="Beikost f&#xFC;r Mel wieder einf&#xFC;hren ">
+			<rating value="9" />
+		</goal>
+		<goal name="neues Handy  aktivieren  und einrichten">
+			<rating value="1" />
+		</goal>
+		<goal name="fasten">
+			<rating value="9" />
+		</goal>
+	</weeklyGoals>
+	<weeklyGoals>
+		<goal name="neues treffen mit Sarah aus machen">
+			<rating value="3" />
+		</goal>
+		<goal name="N&#xE4;gel lackieren">
+			<rating value="3" />
+		</goal>
+		<goal name="fasten">
+			<rating value="8" />
+		</goal>
+	</weeklyGoals>
+	<weeklyGoals>
+		<goal name="-" />
+	</weeklyGoals>
+	<weeklyGoals>
+		<goal name="-" />
+	</weeklyGoals>
+	<weeklyGoals>
+		<goal name="Mai-Ziel: Regelm&#xE4;&#xDF;ig Staubsaugen">
+			<rating value="9" />
+		</goal>
+	</weeklyGoals>
+	<weeklyGoals>
+		<goal name="Nichts S&#xFC;&#xDF;es kaufen">
+			<rating value="2" />
+		</goal>
+		<goal name="Geschenke fertig machen">
+			<rating value="8" />
+		</goal>
+		<goal name="Mai-Ziel: Regelm&#xE4;&#xDF;ig Staubsaugen">
+			<rating value="1" />
+		</goal>
+	</weeklyGoals>
+	<weeklyGoals>
+		<goal name="Beim Babyschwimmen anmelden" />
+		<goal name="Bei meiner &quot;FamilienHilfe&quot; anrufen und um Hilfe bitten bez&#xFC;glich Unterhalt" />
+		<goal name="Mai-Ziel: Regelm&#xE4;&#xDF;ig Staubsaugen" />
+	</weeklyGoals>
+	<weeklyGoals>
+		<goal name="-" />
+	</weeklyGoals>
+	<weeklyGoals>
+		<goal name="todo Liste abarbeiten">
+			<rating value="7" />
+		</goal>
+		<goal name="Juni-Ziel: einmal pro Woche mit Mel nur raus gehen ohne Erledigungen">
+			<rating value="7" />
+		</goal>
+	</weeklyGoals>
+	<weeklyGoals>
+		<goal name="Juni-Ziel: einmal pro Woche mit Mel nur raus gehen ohne Erledigungen">
+			<rating value="7" />
+		</goal>
+	</weeklyGoals>
+	<weeklyGoals>
+		<goal name="Juni-Ziel: einmal pro Woche mit Mel nur raus gehen ohne Erledigungen">
+			<rating value="7" />
+		</goal>
+	</weeklyGoals>
+	<weeklyGoals>
+		<goal name="enthaaren (Beine/Venus/Achseln)">
+			<rating value="7" />
+		</goal>
+		<goal name="Schr&#xE4;nke f&#xFC;rs Bad kaufen">
+			<rating value="0" />
+		</goal>
+		<goal name="Juni-Ziel: einmal pro Woche mit Mel nur raus gehen ohne Erledigungen">
+			<rating value="8" />
+		</goal>
+	</weeklyGoals>
+	<weeklyGoals>
+		<goal name="Regelung UnterhaltsVorschuss mit Jugendamt und Arbeitsamt" />
+		<goal name="Bad Schrank kaufen oder Gardinen f&#xFC;r ein Fenster" />
+		<goal name="Juni-Ziel: einmal pro Woche mit Mel nur raus gehen ohne Erledigungen" />
+	</weeklyGoals>
+	<weeklyGoals>
+		<goal name="Geburtstags Kalender kaufen">
+			<rating value="0" />
+		</goal>
+		<goal name="Friseur Termin machen ">
+			<rating value="0" />
+		</goal>
+		<goal name="Juli-Ziel: ges&#xFC;nder essen">
+			<rating value="0" />
+		</goal>
+	</weeklyGoals>
+	<weeklyGoals>
+		<goal name="-" />
+	</weeklyGoals>
+	<weeklyGoals>
+		<goal name="-" />
+	</weeklyGoals>
+	<weeklyGoals>
+		<goal name="t&#xE4;glich an das beste zur&#xFC;ck denken">
+			<rating value="8" />
+		</goal>
+		<goal name="einmal in der Ostsee">
+			<rating value="9" />
+		</goal>
+		<goal name="Juli-Ziel: ges&#xFC;nder essen">
+			<rating value="4" />
+		</goal>
+	</weeklyGoals>
+	<weeklyGoals>
+		<goal name="neuen FrauenArzt Termin">
+			<rating value="9" />
+		</goal>
+		<goal name="Termin bei Diakonie wegen Landes Eltern Geld">
+			<rating value="9" />
+		</goal>
+		<goal name="August-Ziel: versuchen wenig Geld aus zu geben ohne gr&#xF6;&#xDF;ere Einschr&#xE4;nkungen zu haben">
+			<rating value="3" />
+		</goal>
+	</weeklyGoals>
+	<weeklyGoals>
+		<goal name="-" />
+	</weeklyGoals>
+	<weeklyGoals>
+		<goal name="-" />
+	</weeklyGoals>
+	<weeklyGoals>
+		<goal name="-" />
+	</weeklyGoals>
+	<weeklyGoals>
+		<goal name="-" />
+	</weeklyGoals>
+	<weeklyGoals>
+		<goal name="Termin f&#xFC;r Berufsberatung machen">
+			<rating value="2" />
+		</goal>
+		<goal name="informieren wieviel und wo offene Kitas sind. bzw &#xFC;ber verschiedene Konzerte informieren">
+			<rating value="4" />
+		</goal>
+		<goal name="September-Ziel: jeden tag eine kleine Entspannungs&#xDC;bung f&#xFC;r den R&#xFC;cken. 2-5 min">
+			<rating value="4" />
+		</goal>
+	</weeklyGoals>
+	<weeklyGoals>
+		<goal name="Termin mit Psychologin aus machen">
+			<rating value="1" />
+		</goal>
+		<goal name="Ausweis beantragen">
+			<rating value="9" />
+		</goal>
+		<goal name="September-Ziel: jeden tag eine kleine Entspannungs&#xDC;bung f&#xFC;r den R&#xFC;cken. 2-5 min">
+			<rating value="1" />
+		</goal>
+	</weeklyGoals>
+	<weeklyGoals>
+		<goal name="Plan f&#xFC;r melodys Geburtstag erstellen">
+			<rating value="7" />
+		</goal>
+		<goal name="Wahl-O-Mat benutzen und w&#xE4;hlen gehen">
+			<rating value="9" />
+		</goal>
+		<goal name="September-Ziel: jeden tag eine kleine Entspannungs&#xDC;bung f&#xFC;r den R&#xFC;cken. 2-5 min">
+			<rating value="4" />
+		</goal>
+	</weeklyGoals>
+	<weeklyGoals>
+		<goal name="Foto drucken f&#xFC;r melodys Album">
+			<rating value="9" />
+		</goal>
+		<goal name="Urlaubs Kasse anlegen ">
+			<rating value="9" />
+		</goal>
+		<goal name="September-Ziel: jeden tag eine kleine Entspannungs&#xDC;bung f&#xFC;r den R&#xFC;cken. 2-5 min">
+			<rating value="3" />
+		</goal>
+	</weeklyGoals>
+	<weeklyGoals>
+		<goal name="sagen was mich st&#xF6;rt/was ich m&#xF6;chte (nicht unterschwellig)">
+			<rating value="4" />
+		</goal>
+		<goal name="Einladungen f&#xFC;r melodys Geburtstag schreiben und abschicken">
+			<rating value="9" />
+		</goal>
+		<goal name="Oktober-Ziel: 3&#xD7;in der Woche im Buch lesen">
+			<rating value="0" />
+		</goal>
+	</weeklyGoals>
+	<weeklyGoals>
+		<goal name="zur AOK gehen wegen Zahnarzt kostet voranschlag f&#xFC;r Krone abgeben">
+			<rating value="9" />
+		</goal>
+		<goal name="f&#xFC;r Geburtstag von melody alles vorbereiten">
+			<rating value="9" />
+		</goal>
+		<goal name="Oktober-Ziel: 3&#xD7;in der Woche im Buch lesen">
+			<rating value="6" />
+		</goal>
+	</weeklyGoals>
+	<weeklyGoals>
+		<goal name="zum hautarzt gehen " />
+		<goal name="Oktober-Ziel: 3&#xD7;in der Woche im Buch lesen" />
+	</weeklyGoals>
+	<weeklyGoals>
+		<goal name="-" />
+	</weeklyGoals>
+	<weeklyGoals>
+		<goal name="beim Psychologen anmelden und in Klinik anmelden">
+			<rating value="4" />
+		</goal>
+		<goal name="Liste schreiben mit dringen die ich gerne machen will">
+			<rating value="4" />
+		</goal>
+		<goal name="November-Ziel: 1&#xD7; pro Woche ca 1-2 Stunden Zeit f&#xFC;r mich finden">
+			<rating value="9" />
+		</goal>
+	</weeklyGoals>
+	<weeklyGoals>
+		<goal name="Tagesklinik anrufen und um &#xDC;berweisung k&#xFC;mmern">
+			<rating value="3" />
+		</goal>
+		<goal name="November-Ziel: 1&#xD7; pro Woche ca 1-2 Stunden Zeit f&#xFC;r mich finden">
+			<rating value="8" />
+		</goal>
+	</weeklyGoals>
+	<weeklyGoals>
+		<goal name="Zahnarzt Termin wegen Krone machen">
+			<rating value="9" />
+		</goal>
+		<goal name="anrufen Tages Klinik Termin">
+			<rating value="4" />
+		</goal>
+		<goal name="November-Ziel: 1&#xD7; pro Woche ca 1-2 Stunden Zeit f&#xFC;r mich finden">
+			<rating value="9" />
+		</goal>
+	</weeklyGoals>
+	<weeklyGoals>
+		<goal name="Schrei Tagebuch anlegen">
+			<rating value="0" />
+		</goal>
+		<goal name="Einen ruhigen Tag mit mel">
+			<rating value="9" />
+		</goal>
+		<goal name="November-Ziel: 1&#xD7; pro Woche ca 1-2 Stunden Zeit f&#xFC;r mich finden">
+			<rating value="9" />
+		</goal>
+	</weeklyGoals>
+	<weeklyGoals>
+		<goal name="negativ Tagebuch">
+			<rating value="5" />
+		</goal>
+		<goal name="November-Ziel: 1&#xD7; pro Woche ca 1-2 Stunden Zeit f&#xFC;r mich finden">
+			<rating value="7" />
+		</goal>
+	</weeklyGoals>
+	<weeklyGoals>
+		<goal name="treffen mit Lisa ausmachen" />
+		<goal name="minderer 1 was bei ikea/ElbePark kaufen" />
+		<goal name="Dezember-Ziel: to do Liste ab arbeiten. 1-2 was pro Woche" />
+	</weeklyGoals>
+	<weeklyGoals>
+		<goal name="-" />
+	</weeklyGoals>
+	<weeklyGoals>
+		<goal name="zum Jugendamt gehen und wegen Familie Hilfe nach fragen ">
+			<rating value="9" />
+		</goal>
+		<goal name="beim Fotografen einen Termin machen ">
+			<rating value="9" />
+		</goal>
+		<goal name="Dezember-Ziel: to do Liste ab arbeiten. 1-2 was pro Woche">
+			<rating value="9" />
+		</goal>
+	</weeklyGoals>
+	<weeklyGoals>
+		<goal name="-" />
+	</weeklyGoals>
+	<weeklyGoals>
+		<goal name="alte &#xFC;bergeordnete  Ziele auswerten" />
+		<goal name="positives 2017" />
+		<goal name="neue &#xFC;bergeordnete Ziele erstellen" />
+	</weeklyGoals>
+</patient>
