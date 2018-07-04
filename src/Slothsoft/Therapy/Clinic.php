@@ -3,10 +3,10 @@ declare(strict_types = 1);
 namespace Slothsoft\Therapy;
 
 use Slothsoft\Core\DOMHelper;
-use Slothsoft\Core\IO\Writable\DOMWriterDocumentFromElementTrait;
 use Slothsoft\Core\IO\Writable\DOMWriterInterface;
-use Slothsoft\Farah\Module\Asset\AssetInterface;
+use Slothsoft\Core\IO\Writable\Traits\DOMWriterDocumentFromElementTrait;
 use Slothsoft\Farah\Module\Module;
+use Slothsoft\Farah\Module\Asset\AssetInterface;
 use DOMDocument;
 use DOMElement;
 
@@ -22,7 +22,7 @@ class Clinic implements DOMWriterInterface
         foreach ($assetList as $asset) {
             $patientPath = (string) $asset->createUrl();
             $patientName = basename($patientPath);
-            $patientDocument = Module::resolveToDocument($asset->createUrl());
+            $patientDocument = Module::resolveToDOMWriter($asset->createUrl())->toDocument();
             
             $patient = new Patient(DOMHelper::loadXPath($patientDocument), $patientDocument->documentElement);
             $patient->setName($patientName);
@@ -74,4 +74,5 @@ class Clinic implements DOMWriterInterface
         }
         return $retNode;
     }
+
 }
