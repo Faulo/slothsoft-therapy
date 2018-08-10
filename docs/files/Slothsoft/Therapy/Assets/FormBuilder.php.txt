@@ -13,11 +13,13 @@ use Slothsoft\Farah\FarahUrl\FarahUrl;
 
 class FormBuilder implements ExecutableBuilderStrategyInterface
 {
+
     public function buildExecutableStrategies(AssetInterface $context, FarahUrlArguments $args): ExecutableStrategies
     {
         $clinic = new Clinic();
         
-        $clinic->loadPatients(...$this->getPatientAssets($context->createUrl()->withPath('/static/wochenziele')));
+        $clinic->loadPatients(...$this->getPatientAssets($context->createUrl()
+            ->withPath('/static/wochenziele')));
         
         if ($data = $args->get('clinic')) {
             if (is_array($data)) {
@@ -36,7 +38,6 @@ class FormBuilder implements ExecutableBuilderStrategyInterface
         
         return $goalsAsset->getAssetChildren();
     }
-
 }
 
 
