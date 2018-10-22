@@ -1,7 +1,7 @@
 {
     "name": "slothsoft/therapy",
     "description": "A Farah module.",
-    "license": "GPL",
+    "license": "WTFPL",
     "authors": [
         {
             "name": "Daniel Schulz",
